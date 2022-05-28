@@ -1,0 +1,5 @@
+*.swp
+/go.mod
+/go.sum
+/log
+/ngrok.url
