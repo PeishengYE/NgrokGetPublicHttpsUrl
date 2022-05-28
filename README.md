@@ -1,2 +1,2 @@
-# NgrokGetPublicHttpsUrl
-Go lang code to get Public Https Url
+# Ngrok Get Public Https Url
+Golang code to get Public Https Url
