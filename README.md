@@ -1,6 +1,6 @@
-# Ngrok Get Public Https Url
+# Tool to Get Ngrok Public Https Url
 Ngrok is a tool to publish your private server behind a firewall
-This is a Golang code to get Public Https Url
+This is a Golang code to get Public Https Url of your server
 
 # To build 
 ```
