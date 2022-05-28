@@ -10,6 +10,7 @@ This is a Golang code to get Public Https Url of your server
 ```
 
 # To run in Ubuntu
+The API key is exported by a environment variable
 ```
 export NGROK_API_KEY="*********************************"
 ./ngrok.url
